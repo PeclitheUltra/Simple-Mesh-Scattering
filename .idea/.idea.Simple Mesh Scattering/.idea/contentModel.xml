@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Unity Games\Simple Mesh Scattering" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.Player.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="PolygonSamurai" t="Include">
+          <e p="Materials" t="Include" />
+          <e p="Models" t="Include">
+            <e p="Collisions" t="Include" />
+            <e p="ConvexCollisions" t="Include" />
+            <e p="FixedScaleCharacters" t="Include" />
+            <e p="Snow" t="Include" />
+          </e>
+          <e p="Prefabs" t="Include">
+            <e p="Buildings" t="Include" />
+            <e p="Characters" t="Include">
+              <e p="FixedScaleCharacters" t="Include" />
+            </e>
+            <e p="Environments" t="Include" />
+            <e p="FX" t="Include" />
+            <e p="Props" t="Include" />
+            <e p="Snow" t="Include" />
+            <e p="Weapons" t="Include" />
+          </e>
+          <e p="Textures" t="Include" />
+        </e>
+        <e p="Scenes" t="Include" />
+        <e p="SimpleMeshScattering" t="Include">
+          <e p="Core" t="Include">
+            <e p="MeshScatterer.cs" t="Include" />
+            <e p="MeshScattererLogger.cs" t="Include" />
+          </e>
+          <e p="Editor" t="Include">
+            <e p="MeshScattererCustomEditor.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Simple Mesh Scattering.sln" t="IncludeFlat" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\lowel\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\lowel\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Simple Mesh Scattering.953295019.00" t="ExcludeRecursive" />
+  </component>
+</project>
